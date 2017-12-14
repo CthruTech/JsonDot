@@ -1,7 +1,7 @@
 {
-    "name": "@cthru/evented",
-    "version": "0.1.1",
-    "description": "Simple class to add events by class extension",
+    "name": "@cthru/jsondot",
+    "version": "0.0.1",
+    "description": "Access javascript object with dot-notation string",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,13 +9,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/CthruTech/evented.git"
+        "url": "https://github.com/CthruTech/JsonDot.git"
     },
     "author": "Mark Holtzhausen <nemesarial@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/CthruTech/evented/issues"
+        "url": "https://github.com/CthruTech/JsonDot/issues"
     },
-    "homepage": "https://github.com/CthruTech/evented",
+    "homepage": "https://github.com/CthruTech/JsonDot",
     "dependencies": {}
 }
